@@ -1,0 +1,55 @@
+
+--> identifiers : used to identify anything. 
+eg--> name of variable, name of class, name of method, name of constant, etc.
+
+	int value = 10;
+	
+	value = value + 30;
+
+
+--> variables
+	
+	int value = 10;
+	
+	datatype variable_name = intialization
+	
+	eg : class Hello{
+
+	}	
+	Hello is identifier, value is identifier
+
+	variable is something which has a paritcular type and size and may also contain any initial value.	
+
+	
+--> constants
+	final int VALUE = 10;	
+
+
+--> keywords
+
+	resereved words or words with predefined meaning
+	eg--> int, float, class, void, final, char, etc.
+
+--> datatypes
+
+8 bits --> 
+16 bits -->
+
+2 power 7 bits --> value 
+
+1 bit consume --> sign store
+
+2 power 16
+
+
+
+
+
+
+
+
+
+
+
+
+
